@@ -17,11 +17,11 @@
             enabled: false
         },
     },
-    - Change to true
-             },
+  - Change to true
+            },
 
         multiplayer: {
             /** To enable the Multiplayer feature, set this value to true */
             enabled: true
         },
-    }
+    },
